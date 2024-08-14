@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Orders">2d5f248183c45210807eb8a6feaad35e</ais_search_source>
+        <label>Orders</label>
+        <name>Orders</name>
+        <order>200</order>
+        <search_context_config display_value="My Website AI Search Configuration">2f4f608168c45210915fc1e195fc2bf2</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-14 06:39:34</sys_created_on>
+        <sys_id>ed5f248183c45210807eb8a6feaad37e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Orders</sys_name>
+        <sys_package display_value="My Website" source="x_804188_my_websit">d1cc80f483001210807eb8a6feaad3ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Website">d1cc80f483001210807eb8a6feaad3ce</sys_scope>
+        <sys_update_name>sys_search_filter_ed5f248183c45210807eb8a6feaad37e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-14 06:39:34</sys_updated_on>
+    </sys_search_filter>
+</record_update>

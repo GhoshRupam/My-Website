@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="My Website">234f608128c45210a7fd89e542b280fc</page>
+        <required_translations>[ ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-14 06:39:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6f4f608159c452102396bc82cf50f9eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="My Website" source="x_804188_my_websit">d1cc80f483001210807eb8a6feaad3ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Website">d1cc80f483001210807eb8a6feaad3ce</sys_scope>
+        <sys_update_name>sys_ux_page_property_6f4f608159c452102396bc82cf50f9eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-14 06:39:28</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_804188_my_websit.234f608128c45210a7fd89e542b280fc.root.chrome_footer</unique_name>
+        <value>{"public_page":{"enable_footer_topbar":false,"footer_topbar_options":{},"enable_footer_bar":false,"footer_bar_options":{}}}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=6f4f608159c452102396bc82cf50f9eb"/>
+</record_update>

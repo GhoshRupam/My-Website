@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3bb250bc83001210807eb8a6feaad389" label="Orders" max_length="40" name="x_804188_my_websit_orders" text_index="true" type="collection">
+        <element label="Name" mandatory="true" max_length="50" name="name" type="string"/>
+        <element label="Price" max_length="50" name="price" type="integer"/>
+        <element label="Email" mandatory="true" max_length="50" name="email" type="string"/>
+    </element>
+</database>
